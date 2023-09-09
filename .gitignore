@@ -1,0 +1,7 @@
+GoogleNews-vectors-negative300.bin
+.DS_Store
+__pycache__
+*.pyc
+*.swp
+preprocessing/model_summaries/
+preprocessing/system_summaries/
